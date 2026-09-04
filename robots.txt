@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referral-link
+
+Sitemap: https://winnittacasino.it.com/sitemap.xml
